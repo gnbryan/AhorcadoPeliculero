@@ -1,0 +1,242 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AhorcadoPeliculero
+</name>
+</assembly>
+<members>
+<member name="P:AhorcadoPeliculero.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:AhorcadoPeliculero.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:AhorcadoPeliculero.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:AhorcadoPeliculero.frm_main.palabra">
+	<summary>
+ variable string palabra
+ </summary>
+	<remarks>Es la palabra original que hay que adivinar</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_main.dosPlayers">
+	<summary>
+ Variable booleana dosPlayers
+ </summary>
+	<remarks>Señala si la partida es de 1 o 2 jugadores.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_main.btn_salir_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón salir
+ </summary>
+	<remarks>Sale de la aplicación actual</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_main.btn_1player_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón 1player
+ </summary>
+	<remarks>Al pulsar, comienza la partida para un jugador</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_main.btn_2players_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón 2players
+ </summary>
+	<remarks>Al pulsar, el jugador 1 deberá de introducir una palabra para que el jugador 2 la adivine. Se rellenará de # una segunda palabra que ocultará  a la verdadera y que será lo que verá el jugador 2 y empezará la partida para 2 jugadores.</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_player.peliculas">
+	<summary>
+ Array peliculas.
+ </summary>
+	<remarks>Vector de películas que albergarán las películas a adivinar para la partida de 1 jugador.</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_player.horca">
+	<summary>
+ Array de bitmap horca.
+ </summary>
+	<remarks>Array que contendrá los dibujos de las horcas.</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_player.asteriscos">
+	<summary>
+ Variable stringbuilder asteriscos
+ </summary>
+	<remarks>Variable que mantendrá oculta la palabra a adivinar a base de #. Según el jugador vaya acertando la palabra esta variable irá cambiando sus # por los de la palabra original.</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_player.fallos">
+	<summary>
+ Variable entera fallos
+ </summary>
+	<remarks>Almacenará el número de fallos del jugador.</remarks>
+</member><member name="F:AhorcadoPeliculero.frm_player.palabra">
+	<summary>
+ Variable string palabra
+ </summary>
+	<remarks>Palabra a adivinar</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.frm_player_Load(System.Object,System.EventArgs)">
+	<summary>
+ Evento load del formulario frm_player
+ </summary>
+	<remarks>
+ Al iniciar la partida, se cargan todos los dibujos de la horca en su array correspondiente, colocándose visible el primero de ellos, se carga la variable que contendrá los # en caso del juego de 2 jugadores o se inicializará aleatoriamente una de las películas en el caso del de 1 jugador.
+ Se mostrará al usuario la palabra entre # para que la adivine y se inicializarán las variables de fallos y el stringbuilder que contiene los #.
+ </remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_salir_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón salir
+ </summary>
+	<remarks>Sale de la aplicación actual.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_resolver_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón resolver.
+ </summary>
+	<remarks>Botón que colocará en el textbox la palabra que se intentaba adivinar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.bloquearLetras">
+	<summary>
+ Método bloquearLetras
+ </summary>
+	<remarks>Método sub que no recibe parámetros y que se encargará de bloquear todos los botones del tablero de juego excepto el de salir, para así evitar que el jugador siga pulsando letras cuando la palabra esté ya descubierta o ya se haya perdido.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_A_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón A.
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón A y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_B_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón B.
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón B y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_C_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón C.
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón C y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_D_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón D
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón D y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_E_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón E
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón E y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_F_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón F
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón F y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_G_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón G
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón G y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_H_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón H
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón H y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_I_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón I
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón I y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_J_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón J
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón J y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_K_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón K
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón K y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_L_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón L
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón L y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_M_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón M
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón M y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_N_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón N
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón N y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_Ñ_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón Ñ
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón Ñ y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_O_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón O
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón O y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_P_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón P
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón P y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_Q_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón Q
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón Q y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_R_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón R
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón R y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_S_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón S
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón S y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_T_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón T
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón T y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_U_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón U
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón U y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_V_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón V
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón V y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_W_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón W
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón W y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_X_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón X
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón X y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_Y_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón Y
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón Y y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.btn_Z_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón Z
+ </summary>
+	<remarks>Enviará al método buscarLetra el botón Z y se bloqueará para que no se vuelva a pulsar.</remarks>
+</member><member name="M:AhorcadoPeliculero.frm_player.buscarLetra(System.Windows.Forms.Button)">
+	<summary>
+ Método buscarLetra
+ </summary>
+	<remarks>
+ Método sub buscarLetra que recibe por parámetro el botón pulsado por el usuario.
+ Dependiendo del botón, el método buscará en la palabra a adivinar si existe alguna letra que concuerde con la que haya pulsado el usuario.
+ En caso de haberlas las inserta en la palabra y la vuelve a mostrar con los nuevos cambios, si no está se cuenta como falló y la horca avanzará.
+ En caso de que la horca llegue a 6, el juego finalizará con derrota para el jugador y si la palabra a proponer es igual a la palabra a adivinar, el jugador habrá ganado.
+ </remarks>
+</member>
+</members>
+</doc>

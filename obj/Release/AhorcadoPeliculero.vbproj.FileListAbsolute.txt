@@ -1,0 +1,11 @@
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Release\AhorcadoPeliculero.exe
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Release\AhorcadoPeliculero.pdb
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Release\AhorcadoPeliculero.xml
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\ResolveAssemblyReference.cache
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.frm_main.resources
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.Resources.resources
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.frm_player.resources
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.vbproj.GenerateResource.Cache
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.exe
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.xml
+Z:\Bryan\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Release\AhorcadoPeliculero.pdb

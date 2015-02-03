@@ -1,0 +1,58 @@
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.Resources.resources
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Bryan\Configuración local\Datos de programa\Temporary Projects\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_main.resources
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_main.resources
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.Resources.resources
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bryan\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_player.resources
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+F:\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.exe
+F:\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.pdb
+F:\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.xml
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResolveAssemblyReference.cache
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_main.resources
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.Resources.resources
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_player.resources
+F:\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.exe
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.pdb
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.xml
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_main.resources
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_player.resources
+C:\Documents and Settings\Administrador\Escritorio\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.vbproj.GenerateResource.Cache
+G:\Documents\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+G:\Documents\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+G:\Documents\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.exe
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.xml
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.pdb
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.exe
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.pdb
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\bin\Debug\AhorcadoPeliculero.xml
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResolveAssemblyReference.cache
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_main.resources
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.Resources.resources
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\AhorcadoPeliculero.frm_player.resources
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResGen.read.1.tlog
+D:\DAI\DYR\Proyectos\AhorcadoPeliculero\AhorcadoPeliculero\obj\Debug\ResGen.write.1.tlog
